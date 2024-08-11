@@ -37,6 +37,8 @@ title:  工具类
 
 - 违规记录ㅤ[点击前往](https://m.q.qq.com/a/s/07befc388911b30c2359bfa383f2d693)<br>
 
-- QQ音乐听歌排行ㅤ[点击前往](https://y.qq.com/m/client/vipexchange/index.html)<br>
+- QQ音乐听歌排行ㅤ[点击前往](https://ti.qq.com/friends/recall?uin=)<br>
+
+- 他的线索ㅤ[点击前往](https://m.q.qq.com/a/s/07befc388911b30c2359bfa383f2d693)<br>
 
 ---
